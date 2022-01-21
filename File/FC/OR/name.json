@@ -1,0 +1,12 @@
+
+{
+  "_class":"PageModel",
+  "exportOptions":"ExportOptionsModel",
+  "frame":"FrameModel",
+  "style":"StyleModel",
+  "layers":"LayerModel",
+  "fills":"FillModel",
+  "color":"ColorModel",
+  "points":"PointModel",
+
+}

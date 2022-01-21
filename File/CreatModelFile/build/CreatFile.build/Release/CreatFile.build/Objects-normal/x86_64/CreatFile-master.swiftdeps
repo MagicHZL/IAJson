@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "a4a403bdde4144706e008de51b2a7e16294521111299e750d5f9535b87782b48"
+build_start_time: [1637135514, 570352077]
+build_end_time: [1637135515, 840563058]
+inputs:
+  "/Users/xiaoyang/Desktop/Y/File/CreatModelFile/CreatFile/main.swift": [1637135358, 696829080]

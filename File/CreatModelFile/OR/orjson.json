@@ -1,0 +1,39 @@
+{
+  "peer" : {
+    "permissionSay" : true,
+    "roles" : [
+
+    ],
+    "pausedProducer" : false,
+    "id" : "460035384",
+    "username" : "夏令营结",
+    "identify_num" : "8938",
+    "avatar" : "https:\/\/chuanyuapp.oss-cn-qingdao.aliyuncs.com\/avatars\/2021-05\/EpRDVY6cRq0k00ci.jpg\/icon",
+    "displayName" : "夏令营结",
+    "is_vip" : false,
+    "accompaniment" : false,
+    "permissionFreeMic" : true,
+    "device" : "",
+    "permissionVoiceManage" : true,
+    "pausedHeadset" : false
+  },
+  "room" : {
+    "applyTimeout" : 6000,
+    "applyList" : [
+
+    ],
+    "speakTime" : 60000,
+    "roomId" : "8061592785991419",
+    "inviteTimeout" : 6000,
+    "inviteList" : [
+
+    ],
+    "speakList" : [
+
+    ],
+    "mode" : 0
+  },
+  "peers" : [
+
+  ]
+}
